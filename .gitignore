@@ -1,0 +1,14 @@
+# Environments
+env/
+env_new/
+venv/
+__pycache__/
+*.pyc
+
+# Dataset & Logs (WAJIB ADA)
+data/
+tuner_logs/
+models/
+
+# Streamlit
+.streamlit/
